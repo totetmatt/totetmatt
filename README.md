@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![muc](./gifs/muc.gif)
+![muc](https://github.com/totetmatt/totetmatt/blob/master/gifs/muc.gif?raw=true)
 
 <!--
 **totetmatt/totetmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
