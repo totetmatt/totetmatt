@@ -2,15 +2,19 @@
 
 ### But also some graphics
 
-Played with some C++ and OpenFrameworks to compose pictures via shader function
+Played with some **C++** and **OpenFrameworks** to compose pictures via shader function
 
-<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/muc.gif?raw=true" style="display:inline-block" width="100px">
-<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/mei.gif?raw=true" style="display:inline-block" width="100px">
+<div style="display:inline-block;width:100%">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/muc.gif?raw=true" width="200px">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/mei.gif?raw=true" width="200px">
+</div>
 
-I also tried some #Pico8 stuff ! Just for fun, no game for the moment ;)
+I also tried some **Pico8** stuff ! Just for fun, no game for the moment ;)
 
-![pico8_1](https://github.com/totetmatt/totetmatt/blob/master/gifs/pico8_1.gif?raw=true)
-![pico8_2](https://github.com/totetmatt/totetmatt/blob/master/gifs/pico8_2.gif?raw=true)
+<div style="display:inline-block;width:100%">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/pico8_1.gif?raw=true" width="200px">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/pico8_2.gif?raw=true" width="200px">
+</div>
 
 You can also see some shader composition on my Shadertoy profile !
 https://www.shadertoy.com/user/totetmatt
