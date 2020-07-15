@@ -4,8 +4,8 @@
 
 Played with some C++ and OpenFrameworks to compose pictures via shader function
 
-<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/muc.gif?raw=true" class="display:inline-block" width="100px">
-<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/mei.gif?raw=true" class="display:inline-block" width="100px">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/muc.gif?raw=true" style="display:inline-block" width="100px">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/gifs/mei.gif?raw=true" style="display:inline-block" width="100px">
 
 I also tried some #Pico8 stuff ! Just for fun, no game for the moment ;)
 
