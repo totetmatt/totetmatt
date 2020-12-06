@@ -56,6 +56,17 @@ https://www.shadertoy.com/user/totetmatt
 <img src="https://photo.totetmatt.fr/media/77d66b5b-94a2-47c0-b640-7825e6e4595a.jpg" width="200px">
 <img src="https://photo.totetmatt.fr/media/c4fb58aa-895a-4fbb-b834-f08a39e50289.jpg" width="200px">
 </div>
+
+### More experimental works
+
+<a href="https://art.photo.totetmatt.fr/">https://photo.totetmatt.fr</a>
+
+<div style="display:inline-block;width:100%">
+<img src="https://art.photo.totetmatt.fr/media/9147ea90-5630-45a6-9e14-92e1fe9f2f6f.jpg" width="200px">
+<img src="https://art.photo.totetmatt.fr/media/f5a27521-b240-4172-bdb2-38c303bed9b0.jpg" width="200px">
+<img src="https://art.photo.totetmatt.fr/media/da09d0e8-090e-4247-9f81-a0e71b442051.jpg" width="200px">
+<img src="https://art.photo.totetmatt.fr/media/43c16c22-90d9-4f50-99f8-cfe2a7d6556f.jpg" width="200px">
+</div>
 <!--
 **totetmatt/totetmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
