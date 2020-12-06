@@ -1,5 +1,13 @@
 ## I'm doing some code
 
+### Languages
+
+- Everyday use : Scala, Python, Bash
+- I used in the past : Java, C++, C#
+- Have some knowledge / interest : Rust, Haskell, Lisp, Prolog, ASM, Javascript
+
+### Projects
+
 I'm the creator of the <a href="https://gephi.org/plugins/#/plugin/twitter-streaming-importer">Gephi Twitter Streaming Importer</a> that allows people to visualize twitter in real time with graph visualization.
 
 You can see my presentation at FOSDEM 2017 here : <a href="https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/"> https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/ </a>.
