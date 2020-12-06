@@ -1,12 +1,13 @@
 ## I'm doing some code
 
-I'm the creator of the Gephi Twitter Streaming Importer that allows people to visualize twitter in real time with graph visualization.
+I'm the creator of the <a href="https://gephi.org/plugins/#/plugin/twitter-streaming-importer">Gephi Twitter Streaming Importer</a> that allows people to visualize twitter in real time with graph visualization.
+You can see my presentation at FOSDEM 2017 here : <a href="https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/"> https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/ </a>.
 
 <!-- Video -->
 
 Also created a platform software, Mediamur, to visualise in realtime media from twitter.
 
-Current focus :
+### Current focus :
 
 - GLSL, 2D/3D Graphics for shadershowdown, 4k intro making
 - ffmpeg, Gmic for video and image manipulation
