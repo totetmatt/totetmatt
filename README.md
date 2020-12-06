@@ -1,4 +1,4 @@
-### I'm doing some code
+## I'm doing some code
 
 I'm the creator of the Gephi Twitter Streaming Importer that allows people to visualize twitter in real time with graph visualization.
 
@@ -13,19 +13,19 @@ Current focus :
 - Rust
 <!-- -->
 
-### Also got some graph production
+## Also got some graph production
 
 Here is some of my works on graph visualization
 
 <div style="display:inline-block;width:100%">
 <img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/IshkurGuide.png?raw=true" width="200px">
 <img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/Retard_TGV_1.png?raw=true" width="200px">
-<img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/RFC.jpg ?raw=true" width="200px">
+<img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/RFC.jpg?raw=true" width="200px">
 <img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/WorldBorder.jpg?raw=true" width="200px">
 <img src="https://github.com/totetmatt/totetmatt/blob/master/imgs/world_flight_routes.png?raw=true" width="200px">
 </div>
 
-### But also some graphics
+## But also some graphics
 
 Played with some **C++** and **OpenFrameworks** to compose pictures via shader function
 
