@@ -59,7 +59,7 @@ https://www.shadertoy.com/user/totetmatt
 
 ### More experimental works
 
-<a href="https://art.photo.totetmatt.fr/">https://photo.totetmatt.fr</a>
+<a href="https://art.photo.totetmatt.fr/">https://art.photo.totetmatt.fr</a>
 
 <div style="display:inline-block;width:100%">
 <img src="https://art.photo.totetmatt.fr/media/9147ea90-5630-45a6-9e14-92e1fe9f2f6f.jpg" width="200px">
