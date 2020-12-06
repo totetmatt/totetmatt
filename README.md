@@ -3,7 +3,7 @@
 ### Languages
 
 - Everyday use : Scala, Python, Bash
-- I used in the past : Java, C++, C#
+- Used in the past : Java, C++, C#
 - Have some knowledge / interest : Rust, Haskell, Lisp, Prolog, ASM, Javascript
 
 ### Projects
