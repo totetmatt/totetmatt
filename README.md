@@ -1,15 +1,16 @@
 ## I'm doing some code
 
 I'm the creator of the <a href="https://gephi.org/plugins/#/plugin/twitter-streaming-importer">Gephi Twitter Streaming Importer</a> that allows people to visualize twitter in real time with graph visualization.
+
 You can see my presentation at FOSDEM 2017 here : <a href="https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/"> https://archive.fosdem.org/2017/schedule/event/graph_streaming_twitter_gephi/ </a>.
 
 <!-- Video -->
 
-Also created a platform software, Mediamur, to visualise in realtime media from twitter.
+Also created a platform software, <a href="https://github.com/totetmatt/mediamur">Mediamur</a>, to visualise in realtime media from twitter.
 
 ### Current focus :
 
-- GLSL, 2D/3D Graphics for shadershowdown, 4k intro making
+- GLSL, OpenGL & WebGL, Three.js, 2D/3D Graphics for shadershowdown, 4k intro making
 - ffmpeg, Gmic for video and image manipulation
 - Rust
 <!-- -->
@@ -45,6 +46,16 @@ I also tried some **Pico8** stuff ! Just for fun, no game for the moment ;)
 You can also see some shader composition on my Shadertoy profile !
 https://www.shadertoy.com/user/totetmatt
 
+## Also doing some photography
+
+<a href="https://photo.totetmatt.fr/">https://photo.totetmatt.fr</a>
+
+<div style="display:inline-block;width:100%">
+<img src="https://photo.totetmatt.fr/media/68c4782f-3127-4043-968e-183d17ff55af.jpg" width="200px">
+<img src="https://photo.totetmatt.fr/media/2bbe4d94-c1b2-410b-8275-f634a80eb687.jpg" width="200px">
+<img src="https://photo.totetmatt.fr/media/77d66b5b-94a2-47c0-b640-7825e6e4595a.jpg" width="200px">
+<img src="https://photo.totetmatt.fr/media/c4fb58aa-895a-4fbb-b834-f08a39e50289.jpg" width="200px">
+</div>
 <!--
 **totetmatt/totetmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,4 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
