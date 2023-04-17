@@ -5,7 +5,7 @@
 
 - Everyday use : Scala, Python, Bash
 - Used in the past : Java, C++, C#
-- Have some knowledge / interest : Rust, Haskell, Lisp, Prolog, ASM, Javascript
+- Have some knowledge / interest : Rust, Haskell, Lisp, Prolog, ASM, Javascript, C, Lua
 
 ### Projects
 
@@ -16,6 +16,8 @@ You can see my presentation at FOSDEM 2017 here : <a href="https://archive.fosde
 <!-- Video -->
 
 Also created a platform software, <a href="https://github.com/totetmatt/mediamur">Mediamur</a>, to visualise in realtime media from twitter.
+
+I'm also Main Coordinator on the livecode.demozoo.org/ project that aim to archive livecode event in the demoscene.
 
 ### Current focus :
 
