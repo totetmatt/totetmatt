@@ -17,7 +17,9 @@ You can see my presentation at FOSDEM 2017 here : <a href="https://archive.fosde
 
 Also created a platform software, <a href="https://github.com/totetmatt/mediamur">Mediamur</a>, to visualise in realtime media from twitter.
 
-I'm also Main Coordinator on the livecode.demozoo.org/ project that aim to archive livecode event in the demoscene.
+I'm also Main Coordinator and maintener on the <a href="https://livecode.demozoo.org">livecode.demozoo.org</a> project that aim to archive livecode event in the demoscene.
+
+Gave some web tech help on <a href="https://nanogems.demozoo.org/">nanogems.demozoo.org</a>
 
 ### Current focus :
 
